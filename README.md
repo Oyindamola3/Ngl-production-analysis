@@ -17,7 +17,6 @@ Microsoft Excel
 
 * Data Cleaning
 * Data Transformation
-* Descriptive Statistics
 * Pivot Tables
 * Pivot Charts
 * Slicers
